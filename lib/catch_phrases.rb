@@ -1,6 +1,6 @@
 def mario
-  puts phrase
-  phrase= "It's-a me, Mario!"
+  phrase = "It's-a me, Mario!"
+  returns phrase
 end
 
 def toadstool
