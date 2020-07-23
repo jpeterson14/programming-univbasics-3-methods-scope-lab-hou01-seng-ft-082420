@@ -10,5 +10,12 @@ def toadstool
   status
 end
 def link
-  "It's Dangerous To Go Alone! Take This."
+  cool = "It's Dangerous To Go Alone! Take This."
+  puts cool 
+  cool 
 end
+def all_phrases
+  all = mario + toadstool + link 
+  puts all
+  all
+end 
